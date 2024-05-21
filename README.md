@@ -4,7 +4,7 @@ Welcome to the Netflix Homepage Clone! This project aims to replicate the layout
 
 ## Project Structure:
 - index.html: This file contains the HTML structure of the Netflix homepage clone.
-- styles.css: The CSS file where styles for the Netflix homepage are defined.
+- style.css: The CSS file where styles for the Netflix homepage are defined.
 - Assets: A directory containing all the images & Videos used in the project.
 
 ## Getting Started:
